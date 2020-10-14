@@ -1,0 +1,6 @@
+classes= 1
+train  = data/realbolts/train.txt
+valid  = data/realbolts/valid.txt
+names = data/realbolts/obj.names
+backup = backup/realbolts
+

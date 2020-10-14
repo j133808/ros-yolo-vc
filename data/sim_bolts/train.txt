@@ -1,0 +1,14 @@
+data/sim_bolts/img/01.png
+data/sim_bolts/img/04.png
+data/sim_bolts/img/07.png
+data/sim_bolts/img/11.png
+data/sim_bolts/img/14.png
+data/sim_bolts/img/17.png
+data/sim_bolts/img/20.png
+data/sim_bolts/img/02.png
+data/sim_bolts/img/05.png
+data/sim_bolts/img/08.png
+data/sim_bolts/img/12.png
+data/sim_bolts/img/15.png
+data/sim_bolts/img/18.png
+data/sim_bolts/img/03.png

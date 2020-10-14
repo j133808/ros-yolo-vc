@@ -1,0 +1,6 @@
+classes= 1
+train  = data/ball/train.txt
+valid  = data/ball/valid.txt
+names = data/ball/obj.names
+backup = backup/ball-mini
+

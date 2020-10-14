@@ -1,0 +1,6 @@
+classes= 1
+train  = data/pokeball/train.txt
+valid  = data/pokeball/valid.txt
+names = data/pokeball/obj.names
+backup = backup/pokeball
+

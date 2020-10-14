@@ -1,0 +1,6 @@
+classes= 1
+train  = data/sim_bolts/train.txt
+valid  = data/sim_bolts/valid.txt
+names = data/sim_bolts/obj.names
+backup = backup/sim_bolts
+

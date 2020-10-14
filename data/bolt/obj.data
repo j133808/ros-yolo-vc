@@ -1,0 +1,6 @@
+classes= 1
+train  = data/bolt/train.txt
+valid  = data/bolt/train.txt
+names = data/bolt/obj.names
+backup = backup/bolt/
+
