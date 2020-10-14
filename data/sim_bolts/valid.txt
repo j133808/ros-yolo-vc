@@ -1,5 +1,0 @@
-data/sim_bolts/img/06.png
-data/sim_bolts/img/09.png
-data/sim_bolts/img/13.png
-data/sim_bolts/img/16.png
-data/sim_bolts/img/19.png
