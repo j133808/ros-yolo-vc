@@ -1,6 +1,6 @@
 classes= 1
-train  = data/realbolts/train.txt
-valid  = data/realbolts/valid.txt
-names = data/realbolts/obj.names
-backup = backup/realbolts
+train  = /home/nimbus/inspection_ws/src/my_image_detector/data/realbolts/train.txt
+valid  = /home/nimbus/inspection_ws/src/my_image_detector/data/realbolts/valid.txt
+names = /home/nimbus/inspection_ws/src/my_image_detector/data/realbolts/obj.names
+backup = /home/nimbus/inspection_ws/src/my_image_detector/backup/realbolts
 

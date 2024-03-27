@@ -1,6 +1,6 @@
 classes= 1
-train  = data/ball/train.txt
-valid  = data/ball/valid.txt
-names = data/ball/obj.names
-backup = backup/ball
+train  = /home/nimbus/inspection_ws/src/my_image_detector/data/ball/train.txt
+valid  = /home/nimbus/inspection_ws/src/my_image_detector/data/ball/valid.txt
+names = /home/nimbus/inspection_ws/src/my_image_detector/data/ball/obj.names
+backup = /home/nimbus/inspection_ws/src/my_image_detector/backup/ball
 

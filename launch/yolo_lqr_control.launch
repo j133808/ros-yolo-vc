@@ -1,0 +1,13 @@
+<launch>
+
+  <!--T265 camera node-->
+  <include file="/home/nimbus/catkin_ws/src/realsense-ros/realsense2_camera/launch/rs_t265.launch"/>
+  
+  <!--lqr node-->
+  <!--include file="/home/nimbus/catkin_ws/src/lqr_control/lqr_flight_ctrl_ros/src/controller.launch">
+    <arg name="state_manager" value="realsense_t265"/>
+  </include-->
+
+  <node pkg="yolo" name="yolo_inference" type="darknet_inference_web.py" output="screen"/>
+
+</launch>
